@@ -1,0 +1,14 @@
+img {
+    width: 300px;
+    height: 400px;
+}
+a {
+    background-color: #d182c2;
+    box-shadow: 2px 4px 4px black;
+    border-width: 1px;
+    padding: 5px;
+    margin-bottom: 30px;
+}
+div.btn {
+    height: 30px;
+}
